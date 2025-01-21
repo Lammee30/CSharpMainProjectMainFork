@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\Fork\\CSharpMainProjectMainFork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCB6B313-5493-2A6D-73EF-BFA5DC7D9E24}|Root.csproj|f:\\fork\\csharpmainprojectmainfork\\assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB6B313-5493-2A6D-73EF-BFA5DC7D9E24}|Root.csproj|solutionrelative:assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB6B313-5493-2A6D-73EF-BFA5DC7D9E24}|Root.csproj|f:\\fork\\csharpmainprojectmainfork\\assets\\scripts\\view\\chooseunitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB6B313-5493-2A6D-73EF-BFA5DC7D9E24}|Root.csproj|solutionrelative:assets\\scripts\\view\\chooseunitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCB6B313-5493-2A6D-73EF-BFA5DC7D9E24}|Root.csproj|f:\\fork\\csharpmainprojectmainfork\\assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCB6B313-5493-2A6D-73EF-BFA5DC7D9E24}|Root.csproj|solutionrelative:assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ChooseUnitView.cs",
+              "DocumentMoniker": "F:\\Fork\\CSharpMainProjectMainFork\\Assets\\Scripts\\View\\ChooseUnitView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\View\\ChooseUnitView.cs",
+              "ToolTip": "F:\\Fork\\CSharpMainProjectMainFork\\Assets\\Scripts\\View\\ChooseUnitView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\View\\ChooseUnitView.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:55:52.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArchToTileProjectile.cs",
+              "DocumentMoniker": "F:\\Fork\\CSharpMainProjectMainFork\\Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
+              "ToolTip": "F:\\Fork\\CSharpMainProjectMainFork\\Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:46:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BotController.cs",
               "DocumentMoniker": "F:\\Fork\\CSharpMainProjectMainFork\\Assets\\Scripts\\Controller\\BotController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\BotController.cs",
@@ -30,11 +64,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Controller\\BotController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:56:51.797Z"
+              "WhenOpened": "2025-01-20T09:56:51.797Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EnterPoint.cs",
               "DocumentMoniker": "F:\\Fork\\CSharpMainProjectMainFork\\Assets\\Scripts\\EnterPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnterPoint.cs",
