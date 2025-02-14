@@ -23,28 +23,14 @@ namespace UnitBrains.Player
             {
                 return;
             }
-          for (int i = 0; i <= temperature; i++)
+            for (int i = 0; i <= temperature; i++)
             {
                 var projectile = CreateProjectile(forTarget);
                 AddProjectileToList(projectile, intoList);
             }
 
-            IncreaseTemperature();
-               
-          
-
-
+            IncreaseTemperature();      
         }
-
-
-
-            
-            
-
-            
-
-            
-
         public override Vector2Int GetNextStep()
         {
             return base.GetNextStep();
